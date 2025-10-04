@@ -11,6 +11,12 @@ Draw in the sky with hand gestures and transform your sketches into stunning AI-
 - 📚 **Interactive Tutorial** - Learn as you go
 - ✋ **Palm to Erase** - Natural gesture controls
 
+## Screenshots
+
+<img width="2837" height="1589" alt="image" src="https://github.com/user-attachments/assets/3948417f-0ded-4d11-bb9a-fa6f62d82ee8" />
+<img width="2843" height="1595" alt="image" src="https://github.com/user-attachments/assets/7fdd8608-543a-4764-a45e-72eaafcadffc" />
+<img width="1440" height="882" alt="Screenshot 2025-10-04 at 9 14 09 PM" src="https://github.com/user-attachments/assets/ac0d519e-fe79-4e93-9d49-f5f0b5257b3e" />
+
 ## Tech Stack
 
 **Frontend:**
@@ -38,7 +44,7 @@ Draw in the sky with hand gestures and transform your sketches into stunning AI-
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/skycanvas.git
+git clone https://github.com/SteveTM-git/skycanvas.git
 cd skycanvas
 
 Frontend Setup
@@ -84,7 +90,6 @@ G - Open gallery
 M - Toggle drawing mode
 ? - Show help
 
-License
-MIT
+
 Author
-Your Name
+STEVE THOMAS MULAMOOTTIL
