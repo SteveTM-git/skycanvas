@@ -15,7 +15,8 @@ Draw in the sky with hand gestures and transform your sketches into stunning AI-
 
 <img width="2837" height="1589" alt="image" src="https://github.com/user-attachments/assets/3948417f-0ded-4d11-bb9a-fa6f62d82ee8" />
 <img width="2843" height="1595" alt="image" src="https://github.com/user-attachments/assets/7fdd8608-543a-4764-a45e-72eaafcadffc" />
-<img width="1440" height="882" alt="Screenshot 2025-10-04 at 9 14 09 PM" src="https://github.com/user-attachments/assets/ac0d519e-fe79-4e93-9d49-f5f0b5257b3e" />
+<img width="693" height="391" alt="image" src="https://github.com/user-attachments/assets/ded7f753-6d20-4f33-b97f-7cf7cb3ce62e" />
+
 
 ## Tech Stack
 
